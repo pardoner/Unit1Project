@@ -1,0 +1,10 @@
+body {
+    color: rgb(125, 32, 211);
+    background-image: url(https://qph.cf2.quoracdn.net/main-qimg-3a0b40d96c53860572a1c29970ce14a8);
+    /*background-repeat: repeat;*/
+    font-family: fantasy;
+    padding: 20px;
+    text-align: center;
+  }
+
+h1 {color: white}
