@@ -97,8 +97,17 @@ a:link {
     animation: lights 5s 750ms linear infinite;
   }
   ul {padding-right: 5%;
-  color: rgb(247, 120, 228)}
-  p {color:rgb(213, 189, 214) !important}
+  color: rgb(247, 120, 228);
+  background-color: rgb(23, 21, 53;
+
+  )
+}
+  p {color:rgb(213, 189, 214) !important;}
+
+  .welcome {background-color: rgb(23, 21, 53);
+    display:inline-block;}
+
+
   h2 {color:rgb(165, 138, 191)}
 
   form {
